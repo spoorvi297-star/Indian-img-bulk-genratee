@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Bulk Image Generator",
+  "description": "Generate multiple images from a list of text prompts using the Gemini API. Enter one prompt per line and generate all images in a single batch.",
+  "requestFramePermissions": []
+}
